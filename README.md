@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff7,100:0d0d0d&height=220&section=header&text=Chinthan%20Rai&fontSize=60&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=Initializing%20System...&descSize=20&descAlignY=60&descColor=00e5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=220&section=header&text=Chinthan%20Rai&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Initializing%20System...&descSize=20&descAlignY=60&descColor=00ff41" width="100%"/>
 
 </div>
 
@@ -166,6 +166,8 @@ Deploy   : Frontend → Vercel | Backend → Render | DB → MongoDB Atlas
 ```
 
 > **Role-based booking platform** for salons — customers book slots, admins manage live queues in real-time.
+> 
+> [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-00ff41?style=for-the-badge&logoColor=black)](https://salonq.vercel.app/)
 
 | Feature | Detail |
 |:--------|:-------|
@@ -202,6 +204,8 @@ Deploy   : Docker Compose + AWS EC2 + GitHub Actions CI/CD
 ```
 
 > **Multi-role secure portal** (Admin, Faculty, Student) with OTP onboarding, REST API validation & full containerised cloud deployment.
+>
+> [![GitHub](https://img.shields.io/badge/⚙️_VIEW_ON_GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/ChinthanRai)
 
 | Feature | Detail |
 |:--------|:-------|
