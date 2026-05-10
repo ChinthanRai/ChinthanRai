@@ -1,160 +1,216 @@
-# 👨‍💻 Chinthan Rai Kukkuvalli
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff&animation=twinkling" alt="Profile Banner" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=220&section=header&text=Chinthan%20Rai&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Initializing%20System...&descSize=20&descAlignY=60&descColor=00ff41" width="100%"/>
+
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&height=80&lines=Aspiring+DevOps+Engineer+🚀;MERN+Stack+Developer+💻;Cloud+%7C+CI%2FCD+%7C+Automation+⚙️;Building+Scalable+Systems+📈" alt="Typing SVG" />
-</div>
 
-<br>
-
-## 💼 Professional Profile
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
-```javascript
-const chinthan = {
-  role: "Aspiring DevOps Engineer",
-  location: "Mangaluru, Karnataka, India",
-  skills: [
-    "DevOps & Cloud Fundamentals",
-    "CI/CD & Automation",
-    "MERN Stack Development",
-    "Backend Systems",
-    "Basic Machine Learing"
-  ],
-  learning: "Docker, Kubernetes, Linux, Jenkins, Cloud",
-  focus: "Building production-ready systems",
-  philosophy: "Innovation through automation"
-};
+```
+██████╗██╗  ██╗██╗███╗   ██╗████████╗██╗  ██╗ █████╗ ███╗   ██╗    ██████╗  █████╗ ██╗
+██╔════╝██║  ██║██║████╗  ██║╚══██╔══╝██║  ██║██╔══██╗████╗  ██║    ██╔══██╗██╔══██╗██║
+██║     ███████║██║██╔██╗ ██║   ██║   ███████║███████║██╔██╗ ██║    ██████╔╝███████║██║
+██║     ██╔══██║██║██║╚██╗██║   ██║   ██╔══██║██╔══██║██║╚██╗██║    ██╔══██╗██╔══██║██║
+╚██████╗██║  ██║██║██║ ╚████║   ██║   ██║  ██║██║  ██║██║ ╚████║    ██║  ██║██║  ██║██║
+ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-### Core Competencies
+</div>
 
-- ⚙️ **DevOps & Cloud:** CI/CD pipelines, Docker, Kubernetes, AWS/GCP
-- 🚀 **Automation:** Scripting & Workflow Optimization
-- 🌐 **Full Stack:** MERN (MongoDB, Express, React, Node.js)
-- 🧠 **Problem Solving:** DSA & System Design
-- 🔧 **System Admin:** Linux Administration & Shell Scripting
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=%3E+Booting+system...;%3E+Loading+DevOps+modules...;%3E+Automating+the+world...;%3E+Selenium+%7C+Playwright+%7C+TypeScript;%3E+Docker+%7C+Kubernetes+%7C+AWS;%3E+Building+scalable+systems...;%3E+SYSTEM+READY." alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+
+![Matrix](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d0d0d)
+![Location](https://img.shields.io/badge/LOCATION-MANGALURU,_INDIA-00ff41?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d0d0d)
+![Open To Work](https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-00ff41?style=for-the-badge&logo=handshake&logoColor=black&labelColor=0d0d0d)
+
+</div>
+
+---
+
+## `> whoami`
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```typescript
+interface Developer {
+  name:       "Chinthan Rai";
+  alias:      "ChinthanRai";
+  role:       "DevOps Engineer" | "Full-Stack Dev";
+  location:   "Mangaluru, Karnataka, India";
+  
+  stack: {
+    devops:    ["Docker", "Kubernetes", "AWS", "Jenkins"];
+    testing:   ["Selenium WebDriver", "Playwright"];
+    frontend:  ["React", "Next.js", "TypeScript", "Tailwind"];
+    backend:   ["Node.js", "Express", "Python"];
+    databases: ["MongoDB", "MySQL", "Firebase"];
+    scripting: ["Bash", "Shell", "Python"];
+  };
+
+  currentlyLearning: [
+    "Advanced Kubernetes",
+    "Terraform & IaC",
+    "CI/CD Pipelines",
+    "Cloud Architecture"
+  ];
+
+  philosophy: "Automate everything. Ship fast. Break nothing.";
+  status:     "Available for collaboration 🟢";
+}
+```
 
 </td>
-<td width="40%" valign="center">
-<div align="center">
-<img src="" width="100%" alt="Cat Coding Animation">
-</div>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChinthanRai&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=00ff41" width="100%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ChinthanRai&theme=dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff&stroke=00ff41" width="100%"/>
+
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## 🛠️ Technical Expertise
+## `> cat skills.json`
+
+### ⚡ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00ff41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=00ff41)
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazon-aws&logoColor=00ff41)
+![Jenkins](https://img.shields.io/badge/Jenkins-0d0d0d?style=for-the-badge&logo=jenkins&logoColor=00ff41)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=00ff41)
+![GCP](https://img.shields.io/badge/GCP-0d0d0d?style=for-the-badge&logo=google-cloud&logoColor=00ff41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=github-actions&logoColor=00ff41)
+
+### 🧪 Test Automation
+
+![Selenium](https://img.shields.io/badge/Selenium_WebDriver-0d0d0d?style=for-the-badge&logo=selenium&logoColor=00ff41)
+![Playwright](https://img.shields.io/badge/Playwright-0d0d0d?style=for-the-badge&logo=playwright&logoColor=00ff41)
+![Jest](https://img.shields.io/badge/Jest-0d0d0d?style=for-the-badge&logo=jest&logoColor=00ff41)
+![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=00ff41)
+
+### 💻 Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=00ff41)
+![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=00ff41)
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=00ff41)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=next.js&logoColor=00ff41)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=for-the-badge&logo=tailwind-css&logoColor=00ff41)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=00ff41)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=00ff41)
+![GSAP](https://img.shields.io/badge/GSAP-0d0d0d?style=for-the-badge&logo=greensock&logoColor=00ff41)
+![Material UI](https://img.shields.io/badge/Material_UI-0d0d0d?style=for-the-badge&logo=mui&logoColor=00ff41)
+
+### 🗄️ Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=00ff41)
+![Express.js](https://img.shields.io/badge/Express.js-0d0d0d?style=for-the-badge&logo=express&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=00ff41)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=00ff41)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=00ff41)
+![REST API](https://img.shields.io/badge/REST_API-0d0d0d?style=for-the-badge&logo=postman&logoColor=00ff41)
+
+### 🔌 IoT & Hardware
+
+![Arduino](https://img.shields.io/badge/Arduino-0d0d0d?style=for-the-badge&logo=arduino&logoColor=00ff41)
+![ESP32](https://img.shields.io/badge/ESP32-0d0d0d?style=for-the-badge&logo=espressif&logoColor=00ff41)
+![ESP8266](https://img.shields.io/badge/ESP8266-0d0d0d?style=for-the-badge&logo=espressif&logoColor=00ff41)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=00ff41)
+![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=00ff41)
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=00ff41)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00ff41)
+![Netlify](https://img.shields.io/badge/Netlify-0d0d0d?style=for-the-badge&logo=netlify&logoColor=00ff41)
+![Cursor](https://img.shields.io/badge/Cursor-0d0d0d?style=for-the-badge&logoColor=00ff41)
+![Replit](https://img.shields.io/badge/Replit-0d0d0d?style=for-the-badge&logo=replit&logoColor=00ff41)
+
+---
+
+## `> ls ./projects`
 
 <div align="center">
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FAA918?style=for-the-badge&logo=postman&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### AI & Next-Gen Editors
-![Cursor](https://img.shields.io/badge/Cursor-040404?style=for-the-badge&logoColor=white)
-![Trae](https://img.shields.io/badge/Trae-007AFF?style=for-the-badge&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-FE5F55?style=for-the-badge&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-1E1E1E?style=for-the-badge&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26202?style=for-the-badge&logo=replit&logoColor=white)
-
-### IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-
-### Development & Design Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-### Deployment Platforms
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+| `#` | Project | Description | Stack | Status |
+|:---:|:--------|:-----------|:------|:------:|
+| `01` | **🎉 Excel 5.0** | National Level Tech Fest website — Stranger Things theme. Real-time registrations, Admin Dashboard & Excel export | `HTML` `CSS` `JS` `Firebase` `SheetJS` | [![Live](https://img.shields.io/badge/LIVE-00ff41?style=flat-square&logo=vercel&logoColor=black)](https://excel-5-0.vercel.app/) |
+| `02` | **🧠 Solve-A-Thon 1.0** | National Hackathon Management Portal — secure team auth, registration management & admin controls | `Node.js` `Express` `MongoDB` `GSAP` | [![Live](https://img.shields.io/badge/LIVE-00ff41?style=flat-square&logo=vercel&logoColor=black)](https://solveathon1-0.vercel.app/) |
+| `03` | **🎨 Imagify** | AI-powered text-to-image generation tool with a clean, minimal UI and OpenAI integration | `React` `Node.js` `OpenAI API` | [![Live](https://img.shields.io/badge/LIVE-00ff41?style=flat-square&logo=render&logoColor=black)](https://imagify-frontend-ssxx.onrender.com/) |
+| `04` | **🤖 IoT Humanoid Robot** | Arduino-based biped robot — 6 servo motors, motion and balance control logic written in C | `Arduino` `C` `Servo Control` | `Hardware` |
+| `05` | **📊 AI Instagram Analytics** | Sentiment analysis tool using VADER + NLTK for Instagram data — ML-powered social insights | `Python` `NLTK` `ML` `VADER` | `Completed` |
+| `06` | **👨‍💻 Developer Portfolio** | Personal portfolio showcasing projects, skills and experience — built with modern web tech | `HTML` `Tailwind CSS` `JS` | `Completed` |
 
 </div>
 
-<br>
+---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🎉 Excel 5.0** | **National Level Tech Fest 2026**<br>Stranger Things themed interactive event website.<br>• Real-time registrations<br>• Clean Admin Dashboard<br>• Excel export (SheetJS) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) | [Live Demo](https://excel-5-0.vercel.app/) |
-| **🧠 Solve-A-Thon 1.0** | **National Hackathon Platform**<br>Comprehensive hackathon management portal.<br>• Secure Team Authentication<br>• Registration Management<br>• Admin Controls | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) | [Live Demo](https://solveathon1-0.vercel.app/) |
-| **🎨 Imagify** | **AI-powered Image Generation Tool**<br>Text-to-Image generation with a clean UI.<br>• Clean UI / UX<br>• AI Integration | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | [Live Demo](https://imagify-frontend-ssxx.onrender.com/) |
-| **🤖 IoT Humanoid Robot** | **Arduino-based Biped Robot**<br>• 6 Servo Motors<br>• Basic Motion & Balance Control | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | *Hardware* |
-| **👨‍💻 Personal Portfolio** | **Modern Developer Portfolio**<br>Showcasing skills, projects, and professional experience. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | *Completed* |
-| **📊 AI Instagram Analytics** | **AI Driven Social Insights**<br>Instagram analytics using ML models (Vader Sentiment Analysis) & NLTK preprocessing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square) ![Machine Learning](https://img.shields.io/badge/ML-F7931E?style=flat-square) | *Completed* |
-
-<br>
-
-## 📊 GitHub Stats
+## `> cat activity_graph.log`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishakh-k&show_icons=true&theme=radical&hide_border=true" alt="Vishakh's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=vishakh-k&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakh-k&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=vishakh-k&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinthanRai&theme=react-dark&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
-<br>
+---
 
-## 🤝 Connect With Me
+## `> top-langs --compact`
 
 <div align="center">
-  <a href="mailto:chinthanrai.123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="www.linkedin.com/in/chinthan-rai-kukkuvalli-854125375/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinthanRai&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ChinthanRai&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d0d0d" />
+</div>
+
+---
+
+## `> ping --connect`
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/SEND_MESSAGE-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff41&label=GMAIL&labelColor=0d0d0d)](mailto:chinthanrai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff41&label=LINKEDIN&labelColor=0d0d0d)](https://www.linkedin.com/in/ChinthanRai/)
+[![GitHub](https://img.shields.io/badge/FOLLOW-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff41&label=GITHUB&labelColor=0d0d0d)](https://github.com/ChinthanRai)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║    > Open to DevOps / Full-Stack / Automation roles      ║
+║    > Available for freelance & open-source collab        ║
+║    > Always shipping. Always learning.                   ║
+║                                                          ║
+║              [ SYSTEM READY. AWAITING INPUT. ]           ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 <div align="center">
-  <br>
-  <b>⭐ Open to DevOps Fresher Roles & Collaboration ⭐</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=120&section=footer" width="100%"/>
 </div>
