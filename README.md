@@ -43,7 +43,7 @@
 interface Developer {
   name:      "Chinthan Rai Kukkuvalli";
   alias:     "ChinthanRai";
-  roles:     ["Full-Stack Dev", "DevOps Engineer", "QA Engineer"];
+  roles:     ["Full-Stack Dev", "DevOps Engineer", "Manual & Automated Testing", "QA Engineer"];
   location:  "Mangaluru, Karnataka, India";
   education: "MCA @ Srinivas Institute of Technology (VTU)";
   cgpa:      "8.57";
@@ -73,7 +73,7 @@ interface Developer {
 
   currentlyLearning: ["Kubernetes", "Terraform", "TypeScript", "Advanced AWS"];
   philosophy: "Automate everything. Ship fast. Break nothing.";
-  status:     "Open to Full-Stack / DevOps / QA roles 🟢";
+  status:     "Open to Full-Stack / DevOps / Testing & QA roles 🟢";
 }
 ```
 
