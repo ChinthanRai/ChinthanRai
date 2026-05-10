@@ -19,7 +19,7 @@
     <td width="60%" valign="top">
 
 ```javascript
-const vishakh = {
+const chinthan = {
   role: "Aspiring DevOps Engineer",
   location: "Mangaluru, Karnataka, India",
   skills: [
