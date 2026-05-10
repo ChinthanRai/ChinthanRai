@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=220&section=header&text=Chinthan%20Rai&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Initializing%20System...&descSize=20&descAlignY=60&descColor=00ff41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff7,100:0d0d0d&height=220&section=header&text=Chinthan%20Rai&fontSize=60&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=Initializing%20System...&descSize=20&descAlignY=60&descColor=00e5ff" width="100%"/>
 
 </div>
 
@@ -41,29 +41,30 @@
 
 ```typescript
 interface Developer {
-  name:       "Chinthan Rai";
+  name:       "Chinthan Rai Kukkuvalli";
   alias:      "ChinthanRai";
-  role:       "DevOps Engineer" | "Full-Stack Dev";
+  role:       "Full-Stack Dev" | "DevOps Engineer";
   location:   "Mangaluru, Karnataka, India";
-  
-  stack: {
-    devops:    ["Docker", "Kubernetes", "AWS", "Jenkins"];
-    testing:   ["Selenium WebDriver", "Playwright"];
-    frontend:  ["React", "Next.js", "TypeScript", "Tailwind"];
-    backend:   ["Node.js", "Express", "Python"];
-    databases: ["MongoDB", "MySQL", "Firebase"];
-    scripting: ["Bash", "Shell", "Python"];
+  education:  "MCA @ Srinivas Institute of Technology (VTU) · CGPA: 8.57";
+
+  experience: {
+    role:     "DevOps Intern @ Rooman Technologies";
+    score:    "100 / 100 🔥";
+    work:     ["AWS EC2", "Docker", "GitHub Actions CI/CD", "Bash Automation"];
   };
 
-  currentlyLearning: [
-    "Advanced Kubernetes",
-    "Terraform & IaC",
-    "CI/CD Pipelines",
-    "Cloud Architecture"
-  ];
+  stack: {
+    devops:    ["Docker", "GitHub Actions", "AWS EC2/S3/IAM/VPC", "Nginx"];
+    testing:   ["Selenium WebDriver", "Playwright", "Postman"];
+    frontend:  ["React.js", "TypeScript", "HTML5", "CSS3"];
+    backend:   ["Node.js", "Express.js", "REST APIs", "JWT/OTP Auth"];
+    databases: ["MongoDB", "MySQL"];
+    scripting: ["Bash", "Python"];
+  };
 
+  currentlyLearning: ["Kubernetes", "Terraform", "Advanced Cloud Architecture"];
   philosophy: "Automate everything. Ship fast. Break nothing.";
-  status:     "Available for collaboration 🟢";
+  status:     "Open to DevOps / Full-Stack roles 🟢";
 }
 ```
 
@@ -152,14 +153,98 @@ interface Developer {
 
 <div align="center">
 
-| `#` | Project | Description | Stack | Status |
-|:---:|:--------|:-----------|:------|:------:|
-| `01` | **🎉 Excel 5.0** | National Level Tech Fest website — Stranger Things theme. Real-time registrations, Admin Dashboard & Excel export | `HTML` `CSS` `JS` `Firebase` `SheetJS` | [![Live](https://img.shields.io/badge/LIVE-00ff41?style=flat-square&logo=vercel&logoColor=black)](https://excel-5-0.vercel.app/) |
-| `02` | **🧠 Solve-A-Thon 1.0** | National Hackathon Management Portal — secure team auth, registration management & admin controls | `Node.js` `Express` `MongoDB` `GSAP` | [![Live](https://img.shields.io/badge/LIVE-00ff41?style=flat-square&logo=vercel&logoColor=black)](https://solveathon1-0.vercel.app/) |
-| `03` | **🎨 Imagify** | AI-powered text-to-image generation tool with a clean, minimal UI and OpenAI integration | `React` `Node.js` `OpenAI API` | [![Live](https://img.shields.io/badge/LIVE-00ff41?style=flat-square&logo=render&logoColor=black)](https://imagify-frontend-ssxx.onrender.com/) |
-| `04` | **🤖 IoT Humanoid Robot** | Arduino-based biped robot — 6 servo motors, motion and balance control logic written in C | `Arduino` `C` `Servo Control` | `Hardware` |
-| `05` | **📊 AI Instagram Analytics** | Sentiment analysis tool using VADER + NLTK for Instagram data — ML-powered social insights | `Python` `NLTK` `ML` `VADER` | `Completed` |
-| `06` | **👨‍💻 Developer Portfolio** | Personal portfolio showcasing projects, skills and experience — built with modern web tech | `HTML` `Tailwind CSS` `JS` | `Completed` |
+### 💈 SalonQ — Salon Appointment & Queue Management
+
+</div>
+
+```yaml
+Project  : SalonQ
+Type     : Full-Stack MERN Production App
+Year     : 2025
+Status   : LIVE ✅
+Deploy   : Frontend → Vercel | Backend → Render | DB → MongoDB Atlas
+```
+
+> **Role-based booking platform** for salons — customers book slots, admins manage live queues in real-time.
+
+| Feature | Detail |
+|:--------|:-------|
+| 🔐 Auth | OTP authentication + JWT-based role-based access (Customer & Admin) |
+| 📡 API | RESTful APIs for booking, approval workflows & live queue management |
+| 📧 Email | Migrated to Brevo HTTP API (port 443) — solved Render SMTP port-blocking |
+| ⚙️ CI/CD | GitHub Actions pipeline — auto-deploy on every push |
+| 🗃️ DB | MongoDB Atlas with Mongoose schemas |
+
+**Stack:**
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00ff41)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=00ff41)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=00ff41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=flat-square&logo=github-actions&logoColor=00ff41)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=00ff41)
+![Render](https://img.shields.io/badge/Render-0d0d0d?style=flat-square&logo=render&logoColor=00ff41)
+![Brevo](https://img.shields.io/badge/Brevo_API-0d0d0d?style=flat-square&logoColor=00ff41)
+
+---
+
+<div align="center">
+
+### 🎓 MCA Portal — Secure College Management System
+
+</div>
+
+```yaml
+Project  : MCA Portal
+Type     : Full-Stack MERN + DevOps Project
+Year     : 2026
+Status   : DEPLOYED ON AWS EC2 ✅
+Deploy   : Docker Compose + AWS EC2 + GitHub Actions CI/CD
+```
+
+> **Multi-role secure portal** (Admin, Faculty, Student) with OTP onboarding, REST API validation & full containerised cloud deployment.
+
+| Feature | Detail |
+|:--------|:-------|
+| 👥 Roles | Admin, Faculty & Student — each with isolated access and dashboards |
+| 🔑 Auth | OTP-based student onboarding approval workflow |
+| 🧪 Testing | 55+ REST endpoints validated via custom Node.js integration test script |
+| ⚡ Performance | ~220ms avg API response time measured across all routes |
+| 🐳 DevOps | Dockerised with Docker Compose; deployed on AWS EC2 |
+| ⚙️ CI/CD | GitHub Actions pipeline — triggers on every commit |
+
+**Stack:**
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00ff41)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=00ff41)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=00ff41)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-0d0d0d?style=flat-square&logo=amazon-aws&logoColor=00ff41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=flat-square&logo=github-actions&logoColor=00ff41)
+
+---
+
+<div align="center">
+
+### 🏆 Certifications & Achievements
+
+</div>
+
+<div align="center">
+
+| 🎖️ Certification | Issuer | Score |
+|:----------------|:-------|:-----:|
+| Cloud Computing & DevOps | Rooman Technologies | **100/100** 🔥 |
+| Machine Learning | IBM | ✅ |
+| Deep Learning (TensorFlow) | Coursera | ✅ |
+| Zscaler Zero Trust | Zscaler | ✅ |
+| UiPath RPA | UiPath | ✅ |
+| Advanced Python & HTML5 | — | ✅ |
+
+| 🏅 Achievement | Event | Rank |
+|:--------------|:------|:----:|
+| Mathematics | Govinda Dasa College | 🥇 1st |
+| Physics Hunt | Mangalore University | 🥇 1st |
+| Mathematics | Canara College | 🥈 2nd ×2 |
 
 </div>
 
@@ -187,8 +272,8 @@ interface Developer {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/SEND_MESSAGE-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff41&label=GMAIL&labelColor=0d0d0d)](mailto:chinthanrai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff41&label=LINKEDIN&labelColor=0d0d0d)](https://www.linkedin.com/in/ChinthanRai/)
+[![Gmail](https://img.shields.io/badge/SEND_MESSAGE-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff41&label=GMAIL&labelColor=0d0d0d)](mailto:chinthanrai.123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff41&label=LINKEDIN&labelColor=0d0d0d)](https://www.linkedin.com/in/chinthan-rai-kukkuvalli/)
 [![GitHub](https://img.shields.io/badge/FOLLOW-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff41&label=GITHUB&labelColor=0d0d0d)](https://github.com/ChinthanRai)
 
 </div>
