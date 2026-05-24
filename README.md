@@ -223,7 +223,7 @@ Deploy   : Docker Compose + AWS EC2  |  Automated via GitHub Actions CI/CD
 | 🔑 Auth | OTP-based student onboarding with 7-step approval workflow (`test_flow.js`) |
 | 🧪 API Testing | 55+ REST endpoints validated via custom Node.js integration scripts |
 | ⚡ Performance | ~220ms avg API response time confirmed across all routes |
-| 🐳 Containerised | Full stack dockerised with Docker Compose; `.env` secrets management |
+| 🐳 Containerised | Full stack dockersed with Docker Compose; `.env` secrets management |
 | ☁️ Cloud | Deployed on AWS EC2; SSH access, IAM, VPC security groups configured |
 | ⚙️ CI/CD | GitHub Actions — automated build & deploy triggered on every commit |
 
