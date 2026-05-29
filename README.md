@@ -246,17 +246,17 @@ Deploy   : Docker Compose + AWS EC2  |  Automated via GitHub Actions CI/CD
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
-│   🏢  DevOps Intern @ Rooman Technologies                           │
+│   🏢  DevOps Intern @ Rooman Technologies                          │
 │   📅  Feb 2026 – May 2026  ·  Remote, Bengaluru, Karnataka         │
 │   🏆  Score: 100 / 100  ·  Cloud Computing & DevOps Certified      │
 │                                                                     │
-│   ▸ Provisioned AWS EC2 — SSH, IAM roles, VPC, S3                  │
-│   ▸ Built GitHub Actions CI/CD pipelines (build → test → deploy)  │
-│   ▸ Containerised multi-service apps with Docker & Docker Compose  │
-│   ▸ Wrote Bash automation scripts for routine ops tasks            │
-│   ▸ Monitored live server logs; traced & resolved failures         │
-│   ▸ Ran smoke & sanity checks post-deploy for env validation       │
-│   ▸ Applied STLC principles; documented post-release checklists    │
+│   ▸ Provisioned AWS EC2 — SSH, IAM roles, VPC, S3                   │
+│   ▸ Built GitHub Actions CI/CD pipelines (build → test → deploy)    │
+│   ▸ Containerised multi-service apps with Docker & Docker Compose   │
+│   ▸ Wrote Bash automation scripts for routine ops tasks             │
+│   ▸ Monitored live server logs; traced & resolved failures          │
+│   ▸ Ran smoke & sanity checks post-deploy for env validation        │
+│   ▸ Applied STLC principles; documented post-release checklists     │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -276,8 +276,8 @@ Deploy   : Docker Compose + AWS EC2  |  Automated via GitHub Actions CI/CD
 | Deep Learning (TensorFlow) | Coursera | ✅ |
 | Zscaler Zero Trust Associate | Zscaler | ✅ |
 | UiPath RPA Developer | UiPath | ✅ |
-| Advanced Python | — | ✅ |
-| HTML5 | — | ✅ |
+| Advanced Python | Ethnotech Academy | ✅ |
+| HTML5 | Ethnotech Academy | ✅ |
 
 <br/>
 
